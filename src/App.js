@@ -4,20 +4,9 @@ import "./App.css";
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href=" "
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Hello World
-        </a>
-      </header>
+      <h1>Srinivas Mekala</h1>
+      <img src="https://cloud-o2dy6a9nz-hack-club-bot.vercel.app/5srinivas-team.png" />
+      <h6>HackClub Hackerabad</h6>
     </div>
   );
 }
